@@ -12,6 +12,10 @@
 - 📫 How to reach me **pranoy.saluja@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right" width="400">
+
+
 <p align="left">
 <a href="https://github.com/pranoysaluja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="pranoysaluja" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pranoy-saluja-47a24388/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pranoy-saluja-47a24388" height="30" width="40" /></a>
