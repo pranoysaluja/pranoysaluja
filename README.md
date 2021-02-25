@@ -2,6 +2,7 @@
 
 <h3 align="center">**Actively seeking opportunities in Programming | Programming Enthusiast | Full Stack Developer**
 💻.</h3>
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right" width="400">
 
 
 
@@ -12,8 +13,6 @@
 - 📫 How to reach me **pranoy.saluja@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right" width="400">
 
 
 <p align="left">
