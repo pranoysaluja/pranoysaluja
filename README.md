@@ -1,4 +1,4 @@
-### Hola, I am Pranoy Saluja! 👋
+### Hey there, I'm Pranoy Saluja! 👋
 
 <h3 align="center">**Actively seeking opportunities in Programming | Programming Enthusiast | Full Stack Developer**
 💻.</h3>
